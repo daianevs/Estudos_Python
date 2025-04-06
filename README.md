@@ -37,9 +37,8 @@ estudos-python/
 
 ## ▶️ Acesse direto no Google Colab
 
-[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/estudos-python/blob/main/calculadora-consignado/calculadora_consignado.ipynb)
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daianevs/estudos-python/blob/main/calculadora-consignado/calculadora_consignado.ipynb)
 
-> Substitua `daianevs` pelo seu nome de usuário do GitHub para o botão funcionar corretamente.
 
 ---
 
