@@ -35,6 +35,14 @@ estudos-python/
 
 ---
 
+## ▶️ Acesse direto no Google Colab
+
+[![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/estudos-python/blob/main/calculadora-consignado/calculadora_consignado.ipynb)
+
+> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub para o botão funcionar corretamente.
+
+---
+
 ## 🛠️ Tecnologias utilizadas
 
 - Python 3
@@ -56,7 +64,7 @@ estudos-python/
 
 Estudante de Administração | Estagiária em Produtos Financeiros  
 Atualmente aprendendo Python com foco em dados e automações.  
-Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-perfil).
+Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/seu-perfil)
 
 ---
 
