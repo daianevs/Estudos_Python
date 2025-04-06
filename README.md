@@ -35,9 +35,10 @@ estudos-python/
 
 ---
 
-## ▶️ Acesse direto no Google Colab
+## 📘 Acesse direto no Google Colab
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/daianevs/estudos-python/blob/main/calculadora-consignado/calculadora_consignado.ipynb)
+
 
 
 ---
