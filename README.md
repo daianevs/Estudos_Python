@@ -39,7 +39,7 @@ estudos-python/
 
 [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/SEU_USUARIO/estudos-python/blob/main/calculadora-consignado/calculadora_consignado.ipynb)
 
-> Substitua `SEU_USUARIO` pelo seu nome de usuário do GitHub para o botão funcionar corretamente.
+> Substitua `daianevs` pelo seu nome de usuário do GitHub para o botão funcionar corretamente.
 
 ---
 
